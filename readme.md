@@ -1,9 +1,11 @@
-��npm install
-npm install --save socket.io
-npm install --save socket.io-client
+socket.ioを使ってサーバー・クライアント間でやり取りを行うサンプルコード
 
-��exe server
-node server.js
+・npm install
+  npm install --save socket.io
+  npm install --save socket.io-client
 
-��exe client
-node client.js
+・exe server
+  node server.js
+
+・exe client
+  node client.js
